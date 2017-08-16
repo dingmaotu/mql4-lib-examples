@@ -1,17 +1,18 @@
 # mql4-lib-examples
 
-Examples that illustrates the use of [mql4-lib](https://github.com/dingmaotu/mql4-lib)
+Examples that illustrate the use
+of [mql4-lib](https://github.com/dingmaotu/mql4-lib)
 
 
 ## Introduction
 
-This is a repository mainly used for demostrating the power of the mql4-lib. The
-programs here, however, could be very useful for traders. Thus this library
+This is a repository mainly used for demonstrating the power of the mql4-lib.
+The programs here, however, could be very useful for traders. Thus, this library
 serves another purpose for sharing free **AND** open source high quality MQL
 programs for traders.
 
 I encourage users of the mql4-lib share their code for the benefit of all. Of
-course you can keep your secret money making strategy, but most indicators,
+course you can keep your secret money-making strategy, but most indicators,
 scripts, and EAs do not have the potential of making money on their own. These
 tools can be useful as enhancements to MetaTrader, or partially automate some
 aspects of trading.
