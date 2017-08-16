@@ -19,7 +19,7 @@ aspects of trading.
 ## Installation
 
 You should first install [mql4-lib](https://github.com/dingmaotu/mql4-lib) and
-then deploy this project to the Projects folder or merge this project to the
+then deploy this project to the `Projects` folder or merge this project to the
 MQL4/5 folder. Note that these programs are only tested in MT4. Some of them
 will support MT5. As I plan to make the mql4-lib MT5 compatible, most programs
 of this repository will support MT5 in the future.
@@ -31,8 +31,8 @@ of this repository will support MT5 in the future.
    these features in your production EA.
 
 2. *PriceBreakChart* is an implementation of Price Break Chart. It is a
-   production ready EA for generate offline charts. It supports showing volume
-   and dynamical reloading while changing timeframes.
+   production ready EA for generating offline charts. It supports tick volume
+   and dynamic reloading while changing timeframes.
    
 3. *DeMarker* shows the structure of a reusable indicator. I will add an example
    later how to use the DeMarker indicator with a Renko Chart.
