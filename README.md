@@ -1,6 +1,6 @@
 # mql4-lib-examples
 
-Examples that illustrated the use of [mql4-lib](https://github.com/dingmaotu/mql4-lib)
+Examples that illustrates the use of [mql4-lib](https://github.com/dingmaotu/mql4-lib)
 
 
 ## Introduction
